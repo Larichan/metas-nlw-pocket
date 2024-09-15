@@ -1,0 +1,11 @@
+# Dependency directories
+frontend/node_modules/
+backend/node_modules/
+
+# dotenv environment variable files
+frontend/.env
+backendend/.env
+
+# others
+backend/.migrations/
+frontend/.gitignore
